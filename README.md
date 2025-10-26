@@ -48,8 +48,8 @@ Each project demonstrates a key concept, workflow, or algorithm — from data pr
    git clone https://github.com/yourusername/ml-projects.git
 
 2. Navigate to a project folder:
-
-cd ml-projects/regression/
-
+   ```
+   cd ml-projects/regression/
+   ```
 
 3. Run the notebook or script.
